@@ -9,5 +9,11 @@ package javaapplication1;
  * @author E104
  */
 public class Comprador {
-    
+    private  String nombreCom;
+    private  String indenfitcacion;
+    private  int CantidadProd , telefono, valortotal
+    private  String nombreVend, ciudad, dirrecion 
+
+
+    public void 
 }
